@@ -1,6 +1,6 @@
 ### bem vindos ao meu perfil ⭐
 
-me chamo Thalita nobre de Oliveira
+me chamo Thalita Nobre de Oliveira
 
 -estou estudando no [Alura](https//www.alura.com.br)
 -estou me desenvolvendo na linguagem Javascript
